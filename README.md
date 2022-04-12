@@ -1,5 +1,5 @@
 # Golang-Backend-Bootcamp-Homeworks
-In this repository, there are projects that I have realized during the bootcamp.
+In this repository, there are projects that I have realized during the bootcamp given by patika.dev & kodluyoruz sponsored by Picus Security.
 
 
 These assignments were carried out on books and authors within the scope of the library system.
